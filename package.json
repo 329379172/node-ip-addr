@@ -1,0 +1,11 @@
+{
+  "name": "linfeiyang-ip-addr",
+  "version": "1.0.0",
+  "description": "get ip addr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Linfeiyang",
+  "license": "ISC"
+}
